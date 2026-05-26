@@ -1,0 +1,45 @@
+{
+    "summary": "Data Analyst with 3+ years of experience in Python, AI and Data Engineering",
+    "skills": [
+        "Excel",
+        "SQL",
+        "PYTHON",
+        "MACHINE LEARNING",
+        "DATA ENGINEERING",
+        "TENSORFLOW"
+    ],
+    "experiences": [
+        {
+            "id": 1,
+            "role": "Senior Data Analyst",
+            "company": "XYZ Company",
+            "bullets": [
+                "Created reports using Excel",
+                "Performed market research",
+                "Automated reporting workflows using Python reducing manual work by 40%"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Sales Dashboard",
+            "description": "Created dashboard using Excel"
+        },
+        {
+            "id": 2,
+            "title": "AI Resume Builder",
+            "description": "Built AI-based resume optimization system using Google ADK and Python"
+        },
+        {
+            "id": 3,
+            "title": "Resume AI Builder",
+            "description": "Built AI-powered resume assistant using Python and Google ADK"
+        },
+        {
+            "id": 4,
+            "title": "Multi-Agent Resume System",
+            "description": "Built a multi-agent resume optimization platform using Google ADK and Python"
+        }
+    ]
+}
